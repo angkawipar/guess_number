@@ -19,7 +19,7 @@ class Game{
       print('╟───────────────────────────────────────────');
       return 0;
     }else{
-      stdout.write('║➜ $num is Correct❤, ');
+      stdout.write('║➜ $num is Correct, ');
       return 1;
     }
   }
