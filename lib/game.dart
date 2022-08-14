@@ -13,7 +13,7 @@ class Game{
     if(num>answer){
       print('║➜ $num is Too high ▲');
       print('╟───────────────────────────────────────────');
-      return 0;
+      return 0;//
     }else if(num<answer){
       print('║➜ $num is Too low ▼');
       print('╟───────────────────────────────────────────');
